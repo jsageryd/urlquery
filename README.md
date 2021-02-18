@@ -7,7 +7,7 @@ This is a CLI tool for encoding/decoding URL query params.
 
 ## Installation
 ```
-go get -u github.com/jsageryd/urlquery
+go install github.com/jsageryd/urlquery@latest
 ```
 
 ## Usage example
